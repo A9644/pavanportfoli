@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/pavanportfoli/static/css/main.5b020eae.chunk.css",
+    "main.js": "/pavanportfoli/static/js/main.729140dc.chunk.js",
+    "main.js.map": "/pavanportfoli/static/js/main.729140dc.chunk.js.map",
+    "runtime-main.js": "/pavanportfoli/static/js/runtime-main.79296e1c.js",
+    "runtime-main.js.map": "/pavanportfoli/static/js/runtime-main.79296e1c.js.map",
+    "static/css/2.df750b2b.chunk.css": "/pavanportfoli/static/css/2.df750b2b.chunk.css",
+    "static/js/2.6ba9ab30.chunk.js": "/pavanportfoli/static/js/2.6ba9ab30.chunk.js",
+    "static/js/2.6ba9ab30.chunk.js.map": "/pavanportfoli/static/js/2.6ba9ab30.chunk.js.map",
+    "index.html": "/pavanportfoli/index.html",
+    "precache-manifest.89530d4f30cbdc41c31c9b0822659a5a.js": "/pavanportfoli/precache-manifest.89530d4f30cbdc41c31c9b0822659a5a.js",
+    "service-worker.js": "/pavanportfoli/service-worker.js",
+    "static/css/2.df750b2b.chunk.css.map": "/pavanportfoli/static/css/2.df750b2b.chunk.css.map",
+    "static/css/main.5b020eae.chunk.css.map": "/pavanportfoli/static/css/main.5b020eae.chunk.css.map",
+    "static/js/2.6ba9ab30.chunk.js.LICENSE.txt": "/pavanportfoli/static/js/2.6ba9ab30.chunk.js.LICENSE.txt",
+    "static/media/Banner.jpg": "/pavanportfoli/static/media/Banner.fd100431.jpg",
+    "static/media/Logo.png": "/pavanportfoli/static/media/Logo.80aebfe6.png",
+    "static/media/NewBaner.png": "/pavanportfoli/static/media/NewBaner.0887890a.png",
+    "static/media/Pavannew.jpeg": "/pavanportfoli/static/media/Pavannew.df671c9a.jpeg",
+    "static/media/logos.jpg": "/pavanportfoli/static/media/logos.5729804e.jpg",
+    "static/media/myimg.jpg": "/pavanportfoli/static/media/myimg.dc39ef28.jpg",
+    "static/media/newBrochure.jpg": "/pavanportfoli/static/media/newBrochure.2faac5cf.jpg",
+    "static/media/newpam.jpg": "/pavanportfoli/static/media/newpam.1672c9a6.jpg",
+    "static/media/social.png": "/pavanportfoli/static/media/social.486230bd.png",
+    "static/media/visitingcards.jpg": "/pavanportfoli/static/media/visitingcards.010db248.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79296e1c.js",
+    "static/css/2.df750b2b.chunk.css",
+    "static/js/2.6ba9ab30.chunk.js",
+    "static/css/main.5b020eae.chunk.css",
+    "static/js/main.729140dc.chunk.js"
+  ]
+}
