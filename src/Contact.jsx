@@ -56,6 +56,23 @@ function Contact() {
           </div>
         </div>
       </div>
+      <p
+
+              className="text-center bg-light font-smaller"
+
+              data-Aos="zoom-in"
+
+            >
+
+              For more info
+
+              <br />
+
+              <WhatsAppIcon style={{ color: "green" }} fontSize="larger" />
+
+              9977447884
+
+            </p>
       <div className="container formContainer">
         <div className="row">
           <div className="col-12 mt-3 d-flex justify-content-center align-items-center flex-column">
@@ -93,15 +110,7 @@ function Contact() {
               </button>
             </form>
             <h4 className="text-center mt-4">Thanks for visiting</h4>
-            <p
-              className="text-center bg-light font-smaller"
-              data-Aos="zoom-in"
-            >
-              For more info
-              <br />
-              <WhatsAppIcon style={{ color: "green" }} fontSize="larger" />
-              9977447884
-            </p>
+            
           </div>
         </div>
       </div>
