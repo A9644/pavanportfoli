@@ -60,7 +60,7 @@ function Contact() {
 
        className="text-center bg-light font-smaller"
 
-              data-Aos="zoom-in"
+              "
 
             >
 
