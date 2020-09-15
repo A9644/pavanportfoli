@@ -40,7 +40,7 @@ const Card = (props) => {
               {props.ctext}
             </p>
             <NavLink to="./" className="btn btn-light">
-              Know More
+              Know
             </NavLink>
           </div>
         </div>
