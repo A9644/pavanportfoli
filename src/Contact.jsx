@@ -58,7 +58,7 @@ function Contact() {
       </div>
       <p
 
-              className="text-center bg-light font-smaller"
+       className="text-center bg-light font-smaller"
 
               data-Aos="zoom-in"
 
