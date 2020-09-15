@@ -95,7 +95,7 @@ function Contact() {
             <h4 className="text-center mt-4">Thanks for visiting</h4>
             <p
               className="text-center bg-light font-smaller"
-              data-Aos="fade-left"
+              data-Aos="zoom-in"
             >
               For more info
               <br />
