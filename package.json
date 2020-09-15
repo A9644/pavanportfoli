@@ -1,7 +1,7 @@
 {
   "name": "rwebsite",
   "version": "0.1.0",
-"homepage": "https://a9644.github.io/pavanportfoli/",
+
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
@@ -18,10 +18,9 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
-  "scripts": {
+
 "scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+  
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
