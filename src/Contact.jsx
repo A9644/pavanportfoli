@@ -97,7 +97,7 @@ function Contact() {
               className="text-center bg-light font-smaller w-50"
               data-Aos="fade-left"
             >
-              For more Info
+              For more info
               <br />
               <WhatsAppIcon style={{ color: "green" }} fontSize="larger" />
               9977447884
