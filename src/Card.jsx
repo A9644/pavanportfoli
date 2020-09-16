@@ -22,12 +22,13 @@ const Card = (props) => {
           style={{
             borderRadius: 45,
             boxShadow: 39,
+            
           }}
         >
           <img
             src={props.imgsrc}
             className="card-img-top img-fluid"
-            style={{ height: 180 }}
+            
             alt="..."
             data-Aos="zoom-in"
           />
