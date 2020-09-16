@@ -31,7 +31,7 @@ const Card = (props) => {
             alt="..."
             data-Aos="zoom-in"
           />
-          <div className="card-body">
+          <div className="card-body bg-light">
             <h5 className="card-title">{props.ctitle}</h5>
             <p
               className="card-text text-left"
