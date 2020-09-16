@@ -43,9 +43,11 @@ const Footer = () => {
 
             <div className="col-12 d-flex justify-content-center align-items-center mb-3 ">
               <div
-                className="btn-group bg-light d-flex justify-content-around border border-left-0 border-right-0 border-success"
+                className="btn-group bg-light d-flex justify-content-around "
                 role="group"
                 aria-label="Basic example"
+                style={{border radius:28}}
+
               >
                 <Button
                   href="https://www.facebook.com/pg/bhagyshreegraphicsdesigan-104914981141686/photos/"
