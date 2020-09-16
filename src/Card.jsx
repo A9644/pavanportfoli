@@ -15,14 +15,14 @@ const Card = (props) => {
   }, []);
   return (
     <>
-      <div className="col-md-4 col-10 mx-auto ">
+      <div className="col-md-4 col-10 mx-auto bg-light">
         <div
           className="card mt-3 shadow"
           data-Aos="fade-left"
           style={{
             borderRadius: 45,
             boxShadow: 39,
-            height:200
+            
             
           }}
         >
