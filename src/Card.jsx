@@ -22,6 +22,7 @@ const Card = (props) => {
           style={{
             borderRadius: 45,
             boxShadow: 39,
+            height:200
             
           }}
         >
