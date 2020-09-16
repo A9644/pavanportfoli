@@ -41,7 +41,7 @@ code {
   background-color: pink;
 }
 .formContainer {
-  background: linear-gradient(to right, #1cd8d2, #93edc7);
+  background:"white";
 }
 #myform {
   background-color: white;
