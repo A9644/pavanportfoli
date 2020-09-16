@@ -46,7 +46,7 @@ const Footer = () => {
                 className="btn-group bg-light d-flex justify-content-around "
                 role="group"
                 aria-label="Basic example"
-                style={{border radius:28}}
+                style={{borderRadius:28}}
 
               >
                 <Button
