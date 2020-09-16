@@ -22,7 +22,7 @@ const Sdata = [
     img: newpam,
     title: "Pamphlets Designs",
     text:
-      "Pamphltes designs are prepared for your personal as well as commericial use, I design your Pamphlets as per your need and requirements at resonable costs.",
+      "All type of commercial, business, political, pamphlets are designed.",
   },
   {
     img: Visiting,
